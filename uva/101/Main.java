@@ -1,3 +1,15 @@
+/*
+ *  Copyright (c) 2014 Liang Li <ll@lianglee.org>. All rights reserved.
+ *
+ *  This program is a free software and released under the BSD license.
+ *  https://github.com/lang010/acit
+ *
+ *  Solutions for UVa Problem 101
+ *  UVa link: http://uva.onlinejudge.org/external/1/101.html
+ *
+ *  @Authur Liang Li <ll@lianglee.org>
+ *  @Date Oct 30 23:05:01 2014
+ */
 
 import java.util.Scanner;
 import java.io.OutputStreamWriter;
