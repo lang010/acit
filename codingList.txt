@@ -1,4 +1,13 @@
-UVA problems in a book called
+UVA problems list in a book called BeginningAlgorithmContests
+
+Ref: 
+https://code.google.com/p/aoapc-book/
+
+UVa:
+http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=93
+http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=442
+
+*Note: A period after the problem number means it has been solved.
 
 * Chapter 5 Fundamental
 ** 9. String
@@ -106,8 +115,73 @@ UVA problems in a book called
     10047.
     10004.
     10129
-    10054
+    10054.
     10596.
     10305.
     196.
+
+* Chapter 7. Brute Force
+** Basic
+    10167.
+    11205.
+    131
+    146.
+    10098.
+    729.
+    592
+    110
+
+** Backtracking
+    10474
+    216
+    639
+    539
+    301
+    10344
+    331
+    10012
+    165
+    167
+    10001
+    140
+    193
+    208
+
+** Backtracking Harder
+    10123
+    10160
+    197
+    185
+    307
+    317
+    387
+    519
+    529
+    565
+    502
+    322
+
+** Hidden Graphic Searching
+    10603
+    10422
+    10085
+    310
+    321
+    704
+
+** Hash
+    188
+    10282
+    10391
+    10125
+    10887
+    141
+    10591
+
+** More Brute Force
+    11218
+    11198
+    10274
+    11210
+    10624
 
