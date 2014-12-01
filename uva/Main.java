@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
@@ -10,13 +9,13 @@ public class Main {
     }
 
     public static void main(String[] args) throws Exception {
-	Main m = new Main();
-	m.run();
-	m.release();
+        Main m = new Main();
+        m.run();
+        m.release();
     }
     void release() {
-	sc.close();
-	pw.close();
+        sc.close();
+        pw.close();
     }
 
     void run() {
