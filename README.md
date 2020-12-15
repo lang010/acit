@@ -2,7 +2,6 @@ Copyright (c) 2014, Liang Li <ll@lianglee.org>. All rights reserved.
 
 License: BSD-style
 
-================================================================================
 About Me
 -----------------
 
